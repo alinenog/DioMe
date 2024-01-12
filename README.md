@@ -1,10 +1,12 @@
-# DioMe
+# DioMe 💜
 
 <div>
-<h1> Santander Bootcamp Cibersegurança   <img src="assets/DioMe.jpg">  </h1>
+<h1> Santander Bootcamp Cibersegurança   <img src="assets/DioMe.png">  </h1>
 </div>
 
 <div>
+<h3> 📚 Assuntos abordados </h3>
+
 <li> <b> Princípios de Deesenvolvimento Ágil e Colaborativa </b> </li>
 Trabalhando em Equipes Ágeis</br>
 Organizando seus Estudos com os Roadmaps DIO e o Notion </br>
@@ -34,5 +36,26 @@ Man in the Middle: Ataques e Mitigações </br>
 Entendendo um Ransomware na Prática com Python </br>
 </br>
 
-<li><b> Fortalecendo seu Perfil Profissiona </b></li>
+<li><b> Fortalecendo seu Perfil ProfissionaLl </b></li>
+</div>
+</br>
+
+```
+ ☠️ DESAFIOS: 
+    ✧ Versionamento de Código com Git e GitHub 
+    ✧ Criação de um Phishing com o Kali Linux 
+    ✧ Entendendo um Ransomware na Prática com Python 
+```
+<div>
+<h3> Tecnologias usadas </h3>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"> 
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>  
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
+<img src=""/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
 </div>
