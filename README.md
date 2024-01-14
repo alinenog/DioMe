@@ -46,6 +46,20 @@ Entendendo um Ransomware na Prática com Python </br>
     ✧ Criação de um Phishing com o Kali Linux 
     ✧ Entendendo um Ransomware na Prática com Python 
 ```
+## Layout do desafio Ransomware com Python
+<div>
+<p align="heigth" border=1.0>
+    <img src="assets/Ransomware1.jpg" width="400" title="hover text">
+    <img src="assets/Ransomware2.jpg" width="400" title="hover text">
+</p>
+</div>
+
+``` 
+ls 
+python encrypter.py
+python decrypter.py
+```
+
 <div>
 <h3> Tecnologias usadas </h3>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"> 
